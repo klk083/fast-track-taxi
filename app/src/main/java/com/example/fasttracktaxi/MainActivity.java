@@ -8,14 +8,14 @@ import android.view.MenuItem;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class Main2Activity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     private TextView count;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main2);
+        setContentView(R.layout.main_activity);
     }
 
 

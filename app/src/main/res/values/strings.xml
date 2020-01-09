@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Fast Track Taxi</string>
+    <string name="hello">Hello</string>
+    <string name="splash_screen">SPLASH SCREEN</string>
+    <string name="welcome_text">FAST \n\nTRACK \n\nTAXI</string>
+    <string name="exit">Exit</string>
+    <string name="add">Add</string>
+    <string name="reset">Reset</string>
+    <string name="about">About</string>
 </resources>
